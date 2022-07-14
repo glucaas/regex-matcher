@@ -1,0 +1,51 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\194745\\source\\repos\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\194745\\source\\repos\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\194745\\source\\repos\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros.csproj",
+        "projectName": "ConsoleApp_ReegexErros",
+        "projectPath": "C:\\Users\\194745\\source\\repos\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros.csproj",
+        "packagesPath": "C:\\Users\\194745\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\194745\\source\\repos\\ConsoleApp_ReegexErros\\ConsoleApp_ReegexErros\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\194745\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net50"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://localiza.pkgs.visualstudio.com/_packaging/LocalizaAtivos%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net50": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net50": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
